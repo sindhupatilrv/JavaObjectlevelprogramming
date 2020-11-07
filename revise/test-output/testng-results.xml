@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="revise by packages" duration-ms="33569" started-at="2020-10-26T20:50:22Z" finished-at="2020-10-26T20:50:55Z">
+    <groups>
+    </groups>
+    <test name="SeleniumBasic" duration-ms="33569" started-at="2020-10-26T20:50:22Z" finished-at="2020-10-26T20:50:55Z">
+      <class name="SeleniumBasic.LaunchMultiBrowser">
+        <test-method status="PASS" signature="chrome()[pri:1, instance:SeleniumBasic.LaunchMultiBrowser@2cca92f8]" name="chrome" duration-ms="6733" started-at="2020-10-26T20:50:22Z" finished-at="2020-10-26T20:50:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chrome -->
+        <test-method status="PASS" signature="firfox()[pri:2, instance:SeleniumBasic.LaunchMultiBrowser@2cca92f8]" name="firfox" duration-ms="20359" started-at="2020-10-26T20:50:29Z" finished-at="2020-10-26T20:50:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firfox -->
+        <test-method status="PASS" signature="egde()[pri:3, instance:SeleniumBasic.LaunchMultiBrowser@2cca92f8]" name="egde" duration-ms="6416" started-at="2020-10-26T20:50:49Z" finished-at="2020-10-26T20:50:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- egde -->
+      </class> <!-- SeleniumBasic.LaunchMultiBrowser -->
+    </test> <!-- SeleniumBasic -->
+  </suite> <!-- revise by packages -->
+</testng-results>
