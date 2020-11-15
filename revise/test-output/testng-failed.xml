@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="SeleniumBasic.LaunchUrl">
+      <class name="SeleniumIntermediate.MultipleWindow">
         <methods>
-          <include name="chrome"/>
+          <include name="loginPage"/>
         </methods>
-      </class> <!-- SeleniumBasic.LaunchUrl -->
+      </class> <!-- SeleniumIntermediate.MultipleWindow -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
